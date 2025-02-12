@@ -77,7 +77,7 @@ TexturePack{
         'projectmoon_pm_spectral'
     },
     loc_txt = {
-        name = 'Project Moon Cards',
+        name = 'Project Moon',
         text = {
             "Retextures some cards",
             "to characters from",
