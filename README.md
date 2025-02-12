@@ -1,6 +1,7 @@
 A Balatro mod that retextures some cards to Project Moon characters.
 
 List of artists:
+
 @S661479361148
 @Shan2718281
 @fanmaiji1101
